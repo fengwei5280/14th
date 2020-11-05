@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2020-11-05T11:39:18.867Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" version="13.8.8" etag="fWnvFtmcb4EtjtTf6vce" type="github"><diagram id="hm5f0L-VMLBTMx2l0dyk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-05T11:54:16.892Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="n7W-Q19scP-TeqGnDe3Z" version="13.8.8" type="github">
+  <diagram id="hm5f0L-VMLBTMx2l0dyk" name="Page-1">
+    <mxGraphModel dx="946" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jolhwykPRoS3p9x0sv6P-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="160" y="100" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-2" value="组件1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="120" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-4" value="&lt;span&gt;组件2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-5" value="&lt;span&gt;组件4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-6" value="&lt;span&gt;组件3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-13" value="页面1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="205" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-16" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="130" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-17" value="组件1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-18" value="&lt;span&gt;组件2&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-19" value="&lt;span&gt;组件4&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-20" value="&lt;span&gt;组件3&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="jolhwykPRoS3p9x0sv6P-23" value="页面2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="374" y="100" width="40" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
