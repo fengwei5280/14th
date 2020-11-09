@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-09T03:38:56.124Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="Db_9PmFRg7YvtwR4Mi6F" version="13.9.2" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-09T03:54:30.506Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36" etag="27bWTYwtqaA9Y-yJMFCa" version="13.9.2" type="github">
   <diagram id="clshMpUAv822s9wzOZFy" name="第 1 页">
     <mxGraphModel dx="946" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="a9g0jNBp4a8jI0eQQurz-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a9g0jNBp4a8jI0eQQurz-3" target="a9g0jNBp4a8jI0eQQurz-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="a9g0jNBp4a8jI0eQQurz-3" value="用户操作（添加、删除）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="a9g0jNBp4a8jI0eQQurz-3" value="用户操作" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="90" y="180" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9g0jNBp4a8jI0eQQurz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a9g0jNBp4a8jI0eQQurz-21" target="a9g0jNBp4a8jI0eQQurz-22">
@@ -25,7 +25,10 @@
         <mxCell id="a9g0jNBp4a8jI0eQQurz-22" value="操作记录 -1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="250" y="240" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a9g0jNBp4a8jI0eQQurz-23" value="撤销记录 +1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="a9g0jNBp4a8jI0eQQurz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a9g0jNBp4a8jI0eQQurz-23" target="a9g0jNBp4a8jI0eQQurz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a9g0jNBp4a8jI0eQQurz-23" value="数据覆盖" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="414" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="a9g0jNBp4a8jI0eQQurz-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a9g0jNBp4a8jI0eQQurz-24" target="a9g0jNBp4a8jI0eQQurz-25">
@@ -40,8 +43,17 @@
         <mxCell id="a9g0jNBp4a8jI0eQQurz-25" value="撤销记录 -1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="a9g0jNBp4a8jI0eQQurz-26" value="操作记录 -1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="a9g0jNBp4a8jI0eQQurz-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="a9g0jNBp4a8jI0eQQurz-26" target="a9g0jNBp4a8jI0eQQurz-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="a9g0jNBp4a8jI0eQQurz-26" value="数据覆盖" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="414" y="300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9g0jNBp4a8jI0eQQurz-33" value="撤销记录 +1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="570" y="240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a9g0jNBp4a8jI0eQQurz-34" value="操作记录 +1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="570" y="300" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
