@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T01:22:49.703Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" version="13.9.5" etag="ZUWQCRKFrFrNFbVLe3ox" type="github"><diagram id="2spFQw-CW9_fXkWxAvmr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-11-19T01:26:23.172Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="hvoeOi0ilkIdl60EnKsV" version="13.9.5" type="github">
+  <diagram id="2spFQw-CW9_fXkWxAvmr" name="第 1 页">
+    <mxGraphModel dx="946" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="8l2pZT9glLJ7riEFoAPj-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="378.5" y="80" width="106" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8l2pZT9glLJ7riEFoAPj-2" value="业务参数拼接，生成待签名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="140" width="223" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8l2pZT9glLJ7riEFoAPj-4" value="拼接SK参数，使用MD5加密" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="190" width="223" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8l2pZT9glLJ7riEFoAPj-5" value="请求中传递AK和sign" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="223" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
