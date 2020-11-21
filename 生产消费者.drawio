@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T06:19:45.159Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="8rzMnMmIbXty6B4CMhUd" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T06:58:32.334Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.183 Safari/537.36" etag="f5wpJmObbKTL8RirU6Ug" version="13.10.0" type="github">
   <diagram id="BQV4UrW2nJUJ0BOvXX9o" name="第 1 页">
-    <mxGraphModel dx="946" dy="462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="405" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="K4mkRZeemjEDkVLD8lrk-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mkRZeemjEDkVLD8lrk-1" target="K4mkRZeemjEDkVLD8lrk-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="K4mkRZeemjEDkVLD8lrk-1" value="生产者" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="K4mkRZeemjEDkVLD8lrk-1" value="设计器" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="110" y="220" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="K4mkRZeemjEDkVLD8lrk-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="K4mkRZeemjEDkVLD8lrk-5" target="K4mkRZeemjEDkVLD8lrk-6">
@@ -16,8 +16,14 @@
         <mxCell id="K4mkRZeemjEDkVLD8lrk-5" value="队列" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K4mkRZeemjEDkVLD8lrk-6" value="消费者" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="470" y="220" width="100" height="40" as="geometry" />
+        <mxCell id="K4mkRZeemjEDkVLD8lrk-6" value="发布" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="550" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="K4mkRZeemjEDkVLD8lrk-10" value="每秒5k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="K4mkRZeemjEDkVLD8lrk-12" value="从队列中每秒拉取2k" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="413.5" y="220" width="120" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
